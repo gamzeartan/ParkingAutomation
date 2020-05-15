@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="otopark_dbModelStoreContainer" CdmEntityContainer="otopark_dbEntities">
+    <EntitySetMapping Name="tbl_kullanici">
+      <EntityTypeMapping TypeName="otopark_dbModel.tbl_kullanici">
+        <MappingFragment StoreEntitySet="tbl_kullanici">
+          <ScalarProperty Name="kullanici_id" ColumnName="kullanici_id" />
+          <ScalarProperty Name="kullanici_adi" ColumnName="kullanici_adi" />
+          <ScalarProperty Name="kullanici_parola" ColumnName="kullanici_parola" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

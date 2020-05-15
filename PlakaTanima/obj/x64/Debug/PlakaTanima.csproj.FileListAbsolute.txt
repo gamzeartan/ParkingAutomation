@@ -1,0 +1,203 @@
+D:\Masaustu\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojResolveAssemblyReference.cache
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.Cache
+D:\Masaustu\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+D:\Masaustu\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form1.resources
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+D:\Masaustu\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csc.exe
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csc.exe.config
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csc.rsp
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csi.exe
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csi.exe.config
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csi.rsp
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Console.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Net.Http.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Net.Sockets.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\vbc.exe
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\vbc.exe.config
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\vbc.rsp
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Buffers.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Memory.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.dll
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Buffers.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Memory.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.xml
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form2.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmAdminGiris.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.FrmAnaEkran.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmGiris.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmkullaniciEkle.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCAnaEkran.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCKullaniciEkle.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCKullaniciSil.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe.licenses
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmMarka.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmSeri.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmMusteri.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmOtopark.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmAracKayit.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmCikis.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmKayitlar.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmPlakaBul.resources
+C:\Users\user\source\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCGuncelle.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe.config
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.exe
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\PlakaTanima.pdb
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csc.exe
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csc.exe.config
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csc.rsp
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csi.exe
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csi.exe.config
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\csi.rsp
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Console.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\vbc.exe
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\vbc.exe.config
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\vbc.rsp
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Buffers.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Memory.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.dll
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Buffers.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Memory.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\bin\x64\Debug\AForge.xml
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csprojAssemblyReference.cache
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmPlakaBul.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Form2.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmAdminGiris.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmAnaEkran.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmAracKayit.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmCikis.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmGiris.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmKayitlar.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmKullaniciEkle.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmMarka.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmMusteri.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmOtopark.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.frmSeri.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.Properties.Resources.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCAnaEkran.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCGuncelle.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCKullaniciEkle.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.UCKullaniciSil.resources
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.GenerateResource.cache
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe.licenses
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.csproj.CopyComplete
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.exe
+C:\Users\user\Desktop\YEDEK NIRVANA\visual studio projeler\repos\PlakaTanima\PlakaTanima\obj\x64\Debug\PlakaTanima.pdb
